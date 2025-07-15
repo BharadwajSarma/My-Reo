@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 kjbljb
 hvjh
+=======
+fbwefbwef
+>>>>>>> fc45e4b0741d57ae3e6421a03afd850d3ab38f79
